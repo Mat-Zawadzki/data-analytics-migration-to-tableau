@@ -18,10 +18,10 @@ In order to run this project the following need to be installed and/or imported:
 ## Connecting to the local database using pgAdmin
 pgAdmin is used to connect to the local database. With pgAdmin installed and running, follow these steps to connect:
 
-1. On the main application page, click on 'Add New Server' /n
+1. On the main application page, click on 'Add New Server' <br>
 ![image](https://github.com/Mat-Zawadzki/data-analytics-migration-to-tableau/assets/114954374/06f2a958-9ffa-44b5-866e-cbb2961752c9)
 
-2. On the 'General' tab of the dialogue that appears, enter a name for the new server connection
+2. On the 'General' tab of the dialogue that appears, enter a name for the new server connection<br>
 ![image](https://github.com/Mat-Zawadzki/data-analytics-migration-to-tableau/assets/114954374/741d2bf6-0e7a-4f15-857b-eeb1bcb2e380)
 
-3. On the 'Connection' tab, enter 'localhost' for the 'Host name/address', and enter the username and password specified when creating the database.
+3. On the 'Connection' tab, enter 'localhost' for the 'Host name/address', and enter the username and password specified when creating the database.<br>
